@@ -2,6 +2,13 @@
 
 A live desktop map of Riga's trams and buses for macOS. Every dot represents a stop, glowing in the colour of the line when a vehicle is nearby. Vehicle positions refresh every 15 seconds.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/board-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="docs/board-light.webp">
+    <img alt="RigaTrams board showing live trams on the macOS desktop" src="docs/board-dark.webp" width="420">
+  </picture>
+</p>
 
 ## Tech Stack
 
@@ -119,4 +126,9 @@ If you're installing a build distributed by someone else, macOS may block it bec
 ## Disclaimer
 
 RigaTrams is an independent personal project and is not affiliated with, endorsed by or associated with Rīgas satiksme.
+
+---
+
+<sub>© 2026 Ayma Rehman</sub>
+
 
